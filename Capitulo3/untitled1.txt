@@ -1,0 +1,4 @@
+fuzzy 53
+yasmin 10
+isadora 8
+julio 4
